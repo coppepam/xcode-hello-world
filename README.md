@@ -1,4 +1,4 @@
 xcode-hello-world
 =================
 
-test4
+test
